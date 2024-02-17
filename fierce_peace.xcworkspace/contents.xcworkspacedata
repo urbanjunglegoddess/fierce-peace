@@ -1,4 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
+   <Group
+      location = "container:"
+      name = "tnd">
+   </Group>
+   <Group
+      location = "container:"
+      name = "amr">
+   </Group>
+   <Group
+      location = "container:"
+      name = "ldu">
+      <FileRef
+         location = "group:ldu/xcode/ldu/ldu.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "jmr">
+   </Group>
 </Workspace>

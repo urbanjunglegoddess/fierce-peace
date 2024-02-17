@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54118087-229c-461b-bc70-fbb1f6f93c2c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jmr/compounds/compunds.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jmr/facilities/facilities.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jmr/fruits/fruit.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jmr/herbs/herb.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jmr/vegetables/vegetables.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ldu/afroart/afroart.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ldu/bigbiz/bigbiz.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ldu/homebase/home.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ldu/homebase/users.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ldu/phantomrail/phantonrail.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ldu/playground/playground.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ldu/rising/rising.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ldu/xcode/ldu" afterDir="false" />
-    </list>
+    <list default="true" id="54118087-229c-461b-bc70-fbb1f6f93c2c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

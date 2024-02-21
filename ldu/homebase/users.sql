@@ -23,5 +23,9 @@ CREATE SCHEMA IF NOT EXISTS homebase
     joined_date date NOT NULL
 	);
 
+ALTER TABLE users
+    ADD COLUMN  ethnicity varchar(50)
+
+
 
 

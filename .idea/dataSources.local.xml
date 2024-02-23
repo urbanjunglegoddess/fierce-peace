@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="dataSourceStorageLocal" created-in="DS-233.14475.37">
-    <data-source name="postgres@localhost" uuid="49f55b47-696e-480e-bbb3-51edb04aa3aa">
+  <component name="dataSourceStorageLocal" created-in="DB-233.14015.137">
+    <data-source name="subsidiaries" uuid="49f55b47-696e-480e-bbb3-51edb04aa3aa">
+      <database-info product="PostgreSQL" version="16.2 (Postgres.app)" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.6.0" dbms="POSTGRES" exact-version="16.2" exact-driver-version="42.6">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <auth-provider>no-auth</auth-provider>
+      <user-name>postgress</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="database" negative="1">
+            <node kind="schema" negative="1" />
+          </node>
+        </introspection-scope>
+      </schema-mapping>
+    </data-source>
+    <data-source name="mouseion" uuid="7bf87677-9273-4b12-81ac-e13246bbea76">
       <database-info product="PostgreSQL" version="16.2 (Postgres.app)" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.6.0" dbms="POSTGRES" exact-version="16.2" exact-driver-version="42.6">
         <identifier-quote-string>&quot;</identifier-quote-string>
       </database-info>
@@ -10,13 +26,26 @@
       <auth-provider>no-auth</auth-provider>
       <schema-mapping>
         <introspection-scope>
-          <node negative="1">
-            <node kind="database" negative="1">
-              <node kind="schema" negative="1" />
-            </node>
-            <node kind="database" qname="@" />
+          <node kind="database">
+            <name qname="@" />
+            <name qname="alekbulan" />
+            <name qname="art" />
+            <name qname="body" />
+            <name qname="businesses" />
+            <name qname="earth" />
+            <name qname="events" />
+            <name qname="food" />
+            <name qname="homebase" />
+            <name qname="how_to" />
+            <name qname="industries" />
+            <name qname="law" />
+            <name qname="people" />
+            <name qname="science" />
+            <name qname="spirit" />
+            <name qname="fitness" />
           </node>
         </introspection-scope>
+        <substitutions use-mini-cat="false" />
       </schema-mapping>
     </data-source>
   </component>

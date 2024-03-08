@@ -20,11 +20,12 @@ CREATE SCHEMA IF NOT EXISTS homebase
 	sec_language varchar(100),
 	other_languages text,
 	gender varchar(50),
-    joined_date date NOT NULL
+    joined_date date NOT NULL,
+    ethnicity varchar(50)
 	);
 
 ALTER TABLE users
-    ADD COLUMN  ethnicity varchar(50)
+    ADD COLUMN 
 
 
 

@@ -9,12 +9,13 @@ CREATE TABLE users(
 	country varchar(100),
     email varchar(100) UNIQUE NOT NULL,
     password varchar(255) NOT NULL,
+    gender varchar(50),
+    ethnicity varchar(50),
 	language varchar(100),
 	sec_language varchar(100),
 	other_languages text,
-	gender varchar(50),
-    joined_date TIMESTAMP TIME_ZONE NOT NULL,
-    ethnicity varchar(50)
+    bio text,
+    joined_date TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
 	);
 
 
@@ -25,19 +26,11 @@ CREATE TABLE profiles (
     last_name varchar(50),
     country varchar(100),
     city varchar(100),
-    bio text
 );
 
--- Table for users
-CREATE TABLE homebase.users (
-    user_id SERIAL PRIMARY KEY,
-    username VARCHAR(255) NOT NULL,
-    email VARCHAR(255) NOT NULL,
-    join_date DATE
-);
 
 -- Table for User Roles
-CREATE TABLE homebase.UserRoles (
+CREATE TABLE homebase.roles (
     role_id SERIAL PRIMARY KEY,
     role_name VARCHAR(50) NOT NULL
 );
@@ -52,7 +45,7 @@ CREATE TABLE homebase.UserRoleAssignments (
         REFERENCES homebase.users(user_id),
     CONSTRAINT fk_role_assignment
         FOREIGN KEY (role_id)
-        REFERENCES homebase.UserRoles(role_id)
+        REFERENCES homebase.roles(role_id)
 );
 
 -- Table for Notifications

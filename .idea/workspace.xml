@@ -5,16 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54118087-229c-461b-bc70-fbb1f6f93c2c" name="Changes" comment="Adding to the fierce_peace respository">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/ldu._aEBAA/schema/mouseion.Q93e-A.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/ldu._aEBAA/schema/mouseion.Q93e-A.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fierce-peace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fierce-peace.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/afro_art/afroart.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/big_biz/bigbiz.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/home_base/home.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/home_base/membership.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/home_base/users.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/phantom_rail/phantonrail.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/play_ground/playground.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/root_real/rising.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7bf87677-9273-4b12-81ac-e13246bbea76.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7bf87677-9273-4b12-81ac-e13246bbea76.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jmr/compounds/compunds.sql" beforeDir="false" afterPath="$PROJECT_DIR$/mouseion/medicine/compounds/compunds.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jmr/fruits/fruit.sql" beforeDir="false" afterPath="$PROJECT_DIR$/mouseion/food/fruits/fruit.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jmr/herbs/herb.sql" beforeDir="false" afterPath="$PROJECT_DIR$/mouseion/food/herbs/herb.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jmr/vegetables/vegetables.sql" beforeDir="false" afterPath="$PROJECT_DIR$/mouseion/food/vegetables/vegetables.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ldu/afroart/afroart.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ldu/bigbiz/bigbiz.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ldu/homebase/home.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ldu/homebase/membership.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ldu/homebase/users.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ldu/phantomrail/phantonrail.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ldu/playground/playground.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ldu/rising/rising.sql" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,30 +47,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenDatabaseViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/homebase/Documents/GitHub/fierce-peace&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenDatabaseViewOnStart": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/homebase/Documents/GitHub/fierce-peace/ldu/home_base",
+    "settings.editor.selected.configurable": "vcs.Git"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql_aurora_aws&quot;,
-      &quot;postgresql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql_aurora_aws",
+      "postgresql"
     ],
-    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;module&quot;,
-      &quot;repository&quot;
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ldu/home_base" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/mouseion/medicine" />
       <recent name="$PROJECT_DIR$/mouseion/food" />

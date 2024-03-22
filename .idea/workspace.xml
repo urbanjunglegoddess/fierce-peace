@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54118087-229c-461b-bc70-fbb1f6f93c2c" name="Changes" comment="Adding to the fierce_peace respository">
-      <change afterPath="$PROJECT_DIR$/ldu/afro_art/afroart.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ldu/big_biz/bigbiz.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ldu/home_base/home.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ldu/home_base/membership.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ldu/home_base/users.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ldu/phantom_rail/phantonrail.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ldu/play_ground/playground.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ldu/root_real/rising.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7bf87677-9273-4b12-81ac-e13246bbea76.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7bf87677-9273-4b12-81ac-e13246bbea76.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ldu/afroart/afroart.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ldu/bigbiz/bigbiz.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ldu/homebase/home.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ldu/homebase/membership.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ldu/homebase/users.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ldu/phantomrail/phantonrail.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ldu/playground/playground.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ldu/rising/rising.sql" beforeDir="false" />
-    </list>
+    <list default="true" id="54118087-229c-461b-bc70-fbb1f6f93c2c" name="Changes" comment="Adding to the fierce_peace respository" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

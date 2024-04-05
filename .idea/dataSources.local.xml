@@ -11,8 +11,13 @@
       <user-name>postgress</user-name>
       <schema-mapping>
         <introspection-scope>
-          <node kind="database" negative="1">
-            <node kind="schema" negative="1" />
+          <node negative="1">
+            <node kind="database" qname="ldu" negative="1">
+              <node kind="schema" negative="1" />
+            </node>
+            <node kind="database" qname="ldu">
+              <node kind="schema" qname="jungle_book" negative="1" />
+            </node>
           </node>
         </introspection-scope>
       </schema-mapping>

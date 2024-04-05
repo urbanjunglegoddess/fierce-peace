@@ -1,3 +1,11 @@
+-- SCHEMA: ldu
+-- CREATE SCHEMA IF NOT EXISTS ldu;
+-- DROP SCHEMA IF EXISTS ldu CASCADE;
+-- CREATE homebase IF NOT EXISTS
+
+
+-- DROP DATABASE IF EXISTS homebase;
+
 -- Users
 CREATE TABLE users(
     user_id serial PRIMARY KEY,

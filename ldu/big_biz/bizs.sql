@@ -1,0 +1,30 @@
+-- Businesses table
+CREATE TABLE businesses (
+  id SERIAL PRIMARY KEY,
+  name VARCHAR(255) NOT NULL,
+  description TEXT,
+  category VARCHAR(100),
+  address VARCHAR(255),
+  city VARCHAR(100),
+  state VARCHAR(100),
+  zip VARCHAR(20),
+  phone VARCHAR(20),
+  website VARCHAR(255),
+  logo_url VARCHAR(255),
+  cover_photo_url VARCHAR(255),
+  market_analysis TEXT,
+  business_model TEXT,
+  products_services TEXT,
+  marketing_strategy TEXT,
+  operational_plan TEXT,
+  financial_projection TEXT,
+  funding_requirements DECIMAL(10,2),
+  ownership_structure TEXT,
+  company_background TEXT,
+  milestones TEXT,
+  team_members TEXT,
+  contact_information VARCHAR(255),
+  created_at TIMESTAMP,
+  owner_id INTEGER REFERENCES homebase.users(id)
+);
+

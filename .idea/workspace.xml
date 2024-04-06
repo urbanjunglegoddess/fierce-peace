@@ -5,22 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54118087-229c-461b-bc70-fbb1f6f93c2c" name="Changes" comment="Adding to the fierce_peace respository">
-      <change afterPath="$PROJECT_DIR$/ldu/home_base/articles.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ldu/home_base/blog.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ldu/home_base/challenges.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ldu/home_base/contacts.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ldu/home_base/forum.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ldu/home_base/groups.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ldu/home_base/news_channel.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ldu/home_base/photo_gallery.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ldu/home_base/private_messages.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ldu/home_base/social_media.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ldu/home_base/tags,category.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ldu/home_base/threads.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ldu/home_base/videos.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/big_biz/ads.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/big_biz/biz_events.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/big_biz/biz_photos_vids.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/big_biz/bizs.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/big_biz/cart.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/big_biz/faqs.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/big_biz/freelance_list.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/big_biz/job_post.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/big_biz/orders.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/big_biz/payment.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/big_biz/products.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/big_biz/promos.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/big_biz/real_estate_list.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/big_biz/reviews.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/big_biz/services.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/big_biz/testimonials.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/big_biz/wishlists.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ldu/home_base/notifications.sql" beforeDir="false" afterPath="$PROJECT_DIR$/ldu/home_base/notifications.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ldu/home_base/users.sql" beforeDir="false" afterPath="$PROJECT_DIR$/ldu/home_base/users.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +109,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712343560569</updated>
-      <workItem from="1712343561803" duration="4258000" />
+      <workItem from="1712343561803" duration="6190000" />
     </task>
     <task id="LOCAL-00001" summary="Adding to the fierce_peace respository">
       <option name="closed" value="true" />
@@ -117,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712356881758</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding to the fierce_peace respository">
+      <option name="closed" value="true" />
+      <created>1712361829982</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712361829982</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

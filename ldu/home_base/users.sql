@@ -357,3 +357,16 @@ BEGIN
         user_id = p_user_id;
 END;
 $$ LANGUAGE plpgsql;
+
+-- Table for User Challenges
+CREATE TABLE homebase.UserChallenges (
+    challenge_id SERIAL PRIMARY KEY,
+    user_id INT,
+    challenge_name VARCHAR(255),
+    start_date TIMESTAMPTZ,
+    end_date TIMESTAMPTZ,
+    description TEXT,
+    CONSTRAINT fk_user_challenge
+        FOREIGN KEY (user_id)
+        REFERENCES homebase.users(user_id)
+);

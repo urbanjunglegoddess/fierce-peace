@@ -5,43 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54118087-229c-461b-bc70-fbb1f6f93c2c" name="Changes" comment="Adding to the fierce_peace respository">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ldu/home_base/notifications.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ldu/home_base/profiles.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/blobs/version" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/xd.lck" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/amc.t3kBAA/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/amc.t3kBAA/schema/information_schema.FNRwLQ.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/amc.t3kBAA/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/amc.t3kBAA/schema/pg_catalog.0S1ZNQ.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/amr.xnkBAA/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/amr.xnkBAA/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/amr.xnkBAA/schema/pg_catalog.0S1ZNQ.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/amr.xnkBAA/schema/pg_catalog.0S1ZNQ.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/homebase.MHQL4w.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/homebase.MHQL4w/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/homebase.MHQL4w/schema/information_schema.FNRwLQ.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/homebase.MHQL4w/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/homebase.MHQL4w/schema/pg_catalog.0S1ZNQ.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/homebase.MHQL4w/schema/public.abK9xQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/ldu._aEBAA/schema/afro_art.xu3eOA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/ldu._aEBAA/schema/afro_art.xu3eOA.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/ldu._aEBAA/schema/big_biz.VKkn-Q.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/ldu._aEBAA/schema/big_biz.VKkn-Q.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/ldu._aEBAA/schema/homebase.MHQL4w.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/ldu._aEBAA/schema/homebase.MHQL4w.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/ldu._aEBAA/schema/information_schema.FNRwLQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/ldu._aEBAA/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/ldu._aEBAA/schema/jungle_book.K-Em0A.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/ldu._aEBAA/schema/jungle_book.K-Em0A.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/ldu._aEBAA/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/ldu._aEBAA/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/ldu._aEBAA/schema/phantom_rail.hM0o4Q.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/ldu._aEBAA/schema/phantom_rail.hM0o4Q.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/ldu._aEBAA/schema/playground.uy1igA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/ldu._aEBAA/schema/playground.uy1igA.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/ldu._aEBAA/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/ldu._aEBAA/schema/public.abK9xQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/ldu._aEBAA/schema/rising.RvmFyA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/ldu._aEBAA/schema/rising.RvmFyA.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/49f55b47-696e-480e-bbb3-51edb04aa3aa/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/home_base/articles.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/home_base/blog.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/home_base/challenges.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/home_base/contacts.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/home_base/forum.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/home_base/groups.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/home_base/news_channel.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/home_base/photo_gallery.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/home_base/private_messages.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/home_base/social_media.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/home_base/tags,category.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/home_base/threads.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ldu/home_base/videos.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ldu/home_base/home.sql" beforeDir="false" afterPath="$PROJECT_DIR$/ldu/home_base/home.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ldu/home_base/notifications.sql" beforeDir="false" afterPath="$PROJECT_DIR$/ldu/home_base/notifications.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ldu/home_base/users.sql" beforeDir="false" afterPath="$PROJECT_DIR$/ldu/home_base/users.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,8 +107,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712343560569</updated>
-      <workItem from="1712343561803" duration="2798000" />
+      <workItem from="1712343561803" duration="4258000" />
     </task>
+    <task id="LOCAL-00001" summary="Adding to the fierce_peace respository">
+      <option name="closed" value="true" />
+      <created>1712356881758</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712356881758</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

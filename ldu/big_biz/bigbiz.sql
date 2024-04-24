@@ -22,16 +22,6 @@ CREATE TABLE businesses (
   owner_id INTEGER REFERENCES users(id)
 );
 
--- Users table
--- (for storing business owners & customers)
-CREATE TABLE users (
-  id SERIAL PRIMARY KEY,
-  first_name VARCHAR(100),
-  last_name VARCHAR(100),
-  email VARCHAR(320) NOT NULL UNIQUE,
-  password VARCHAR(255) NOT NULL,
-  join_date DATE NOT NULL DEFAULT CURRENT_DATE
-);
 
 -- Products table
 CREATE TABLE products (
